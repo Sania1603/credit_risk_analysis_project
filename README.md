@@ -51,7 +51,9 @@ CREATE TABLE credit_risk (
     cb_person_default_on_file VARCHAR(10),
     cb_person_cred_hist_length INT
 );
+```sql
 
+```sql
 SELECT * FROM credit_risk LIMIT 10;
 ```sql
 
