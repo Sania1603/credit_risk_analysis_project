@@ -1,10 +1,10 @@
-# 💳 Credit Risk Analytics using SQL & Power BI
+# 💳 Credit Risk Analytics using SQL
 
 ![Finance Banner](https://github.com/user-attachments/assets/1ab48838-36a9-4cb1-95ab-8194f3cfcbec)
 
 ## Overview
-This project presents an **end-to-end Credit Risk Analysis** that leverages **PostgreSQL** for advanced data querying and **Power BI** for interactive visualization.  
-It provides deep insights into customer credit behavior, loan performance, and potential risk exposures — designed to mirror real-world analytics used in top financial institutions like **Goldman Sachs**, **S&P Global**, and **Barclays**.
+This project presents an **end-to-end Credit Risk Analysis** that leverages **PostgreSQL** for advanced data querying.  
+It provides deep insights into customer credit behavior, loan performance, and potential risk exposures designed to mirror real-world analytics used in top financial institutions like **Goldman Sachs**, **S&P Global**, and **Barclays**.
 
 ---
 
@@ -28,8 +28,6 @@ It provides deep insights into customer credit behavior, loan performance, and p
 ## Dataset
 **Dataset Name:** Credit Risk Dataset  
 **Source:** [Kaggle - Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)  
-**Rows:** 10,000+  
-**Columns:** 10+  
 
 This dataset includes customer credit history, loan information, and repayment patterns.  
 
